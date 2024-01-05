@@ -1,1 +1,1 @@
-# GROW-INERN-task3-calculator
+A simple calculator created under the virtual internship program
